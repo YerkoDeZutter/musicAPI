@@ -1,0 +1,25 @@
+#container{
+  text-align: center;
+}
+
+input{
+  text-align: center;
+  margin-left: 40px;
+}
+
+li{
+  list-style-type: none;
+  width: 200px;
+  padding: 10px;
+  color: white;
+  background-color: #0ba0aa;
+  margin: auto;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+iframe{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-bottom: solid black 1px;
+}
